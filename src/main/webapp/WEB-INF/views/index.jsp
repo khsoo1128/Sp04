@@ -30,7 +30,7 @@
 	     -->
 	     
 	   <h1>
-	        Spring REST & AJAX 
+	        Spring REST & AJAX ^^
 	   </h1>
 	   <h3>Rest Test</h3>
 	   <a href="rest/getText">getText</a><br/>
